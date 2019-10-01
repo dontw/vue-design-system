@@ -1,5 +1,8 @@
 {
   "aliases": {
+    "shiba": {
+      "value": "28, 76%"
+    },
     "vermilion": {
       "value": "7, 83%"
     },
@@ -76,12 +79,26 @@
       "originalValue": "#7F8891",
       "name": "color_silver"
     },
+    "color_shiba_darker": {
+      "type": "color",
+      "category": "color_group_5",
+      "value": "rgb(157, 85, 21)",
+      "originalValue": "hsla({!shiba}, 35%, 1)",
+      "name": "color_shiba_darker"
+    },
     "color_white": {
       "type": "color",
       "category": "color_group_4",
       "value": "rgb(255, 255, 255)",
       "originalValue": "{!white}",
       "name": "color_white"
+    },
+    "color_shiba_light": {
+      "type": "color",
+      "category": "color_group_5",
+      "value": "rgb(234, 161, 98)",
+      "originalValue": "hsla({!shiba}, 65%, 1)",
+      "name": "color_shiba_light"
     },
     "color_bleu_de_france": {
       "type": "color",
@@ -125,6 +142,13 @@
       "originalValue": "hsla({!vermilion}, 43%, 1)",
       "name": "color_vermilion_dark"
     },
+    "color_shiba": {
+      "type": "color",
+      "category": "color_group_5",
+      "value": "rgb(226, 126, 40)",
+      "originalValue": "hsla({!shiba}, 52%, 1)",
+      "name": "color_shiba"
+    },
     "color_ucla_gold_light": {
       "type": "color",
       "category": "color_group_2",
@@ -152,6 +176,20 @@
       "value": "rgb(0, 38, 77)",
       "originalValue": "hsla({!oxford_blue}, 15%, 1)",
       "name": "color_oxford_blue"
+    },
+    "color_shiba_lighter": {
+      "type": "color",
+      "category": "color_group_5",
+      "value": "rgb(240, 188, 143)",
+      "originalValue": "hsla({!shiba}, 75%, 1)",
+      "name": "color_shiba_lighter"
+    },
+    "color_shiba_dark": {
+      "type": "color",
+      "category": "color_group_5",
+      "value": "rgb(202, 109, 28)",
+      "originalValue": "hsla({!shiba}, 45%, 1)",
+      "name": "color_shiba_dark"
     },
     "color_vermilion": {
       "type": "color",
