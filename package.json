@@ -1,13 +1,12 @@
 {
   "name": "vue-design-system",
-  "version": "3.5.7",
+  "version": "1.0.0",
   "description": "Vue Design System is an open-source tool for building Design Systems with Vue.js",
-  "author": "viljamis <me@viljamis.com>",
+  "author": "chenyu-hsieh<chenyu-hsieh@tp.carnival.com.tw>",
   "main": "dist/system/system.js",
   "files": [
     "dist/system"
   ],
-  "homepage": "https://vueds.com",
   "private": true,
   "license": "MIT",
   "scripts": {

@@ -1,6 +1,6 @@
 <template>
   <component :is="type" :href="href" :type="submit" :class="['button', size, state, variation]">
-    <slot/>
+    <slot />
   </component>
 </template>
 
@@ -13,7 +13,7 @@
 export default {
   name: "Button",
   status: "prototype",
-  release: "3.5.0",
+  release: "3.1.0",
   props: {
     /**
      * The html element used for the button.

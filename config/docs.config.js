@@ -8,7 +8,7 @@ module.exports = {
   /**
    * Name of your design system. Changes both page title and sidebar logo.
    */
-  title: "Vue Design System",
+  title: "Design System Template",
   /**
    * Most of the styles are defined in /docs/docs.styles.scss
    */

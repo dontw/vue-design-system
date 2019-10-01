@@ -8,6 +8,8 @@
 #
 
 aliases:
+  shiba:
+    value: "28, 76%"
   vermilion:
     value: "7, 83%"
   ucla_gold:
@@ -84,6 +86,23 @@ props:
   color_cloud:
     value: "#E9F3FD"
     category: color_group_4
+
+  color_shiba_darker:
+    value: "hsla({!shiba}, 35%, 1)"
+    category: color_group_5
+  color_shiba_dark:
+    value: "hsla({!shiba}, 45%, 1)"
+    category: color_group_5
+  color_shiba:
+    value: "hsla({!shiba}, 52%, 1)"
+    category: color_group_5
+  color_shiba_light:
+    value: "hsla({!shiba}, 65%, 1)"
+    category: color_group_5
+  color_shiba_lighter:
+    value: "hsla({!shiba}, 75%, 1)"
+    category: color_group_5
+
 global:
   type: color
   category: color
